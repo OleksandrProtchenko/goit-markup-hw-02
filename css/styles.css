@@ -58,19 +58,23 @@ h3 {
 .header .header-contacts {
   font-style: normal;
 }
-.header .header-contacts .header-contacts-list .header-contacts-list-item a {
+.header
+  .header-contacts
+  .header-contacts-list
+  .header-contacts-list-item
+  .header-contacts-list-item-link {
   color: currentColor;
 }
 .header
   .header-contacts
   .header-contacts-list
   .header-contacts-list-item
-  a:hover,
+  .header-contacts-list-item-link:hover,
 .header
   .header-contacts
   .header-contacts-list
   .header-contacts-list-item
-  a:focus {
+  .header-contacts-list-item-link:focus {
   color: #404bbf;
 }
 .solutions {
