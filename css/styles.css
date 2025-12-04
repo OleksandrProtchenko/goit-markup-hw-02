@@ -113,6 +113,9 @@ h3 {
 .team .team-list .team-list-item {
   background-color: #ffffff;
 }
+.team .team-list .team-list-item .team-list-item-descr {
+  color: #434455;
+}
 .footer {
   background-color: #2e2f42;
 }
